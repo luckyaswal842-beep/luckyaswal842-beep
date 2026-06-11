@@ -1,11 +1,50 @@
 # Hi, I'm Lucky Aswal
-**A passionate Data Analyst
+A passionate Data Analyst
 
 Email Me 👉 ✉️ **luckyaswal842@gmail.com** For Collaboration/Project or Anything Else. 
 
-# 💫 About Me:
-🔭 I’m currently working on<br>Data Analytics projects involving SQL, Python, Power BI, Excel, and Machine Learning to solve real-world business problems through data-driven insights.<br><br>👯 I’m looking to collaborate on<br>Open-source Data Analytics, Business Intelligence, Data Visualization, and Machine Learning projects.<br><br>🤝 I’m looking for help with<br>Advanced Data Engineering concepts, Cloud Analytics, and building scalable end-to-end data solutions.<br><br>🌱 I’m currently learning<br>Advanced SQL, Power BI, Python for Data Analytics, Machine Learning, Statistics, and Data Storytelling.<br><br>💬 Ask me about<br>Python, SQL, Power BI, Excel, Data Cleaning, Data Visualization, Exploratory Data Analysis (EDA), and Machine Learning fundamentals.<br><br>⚡ Fun fact<br>I enjoy turning raw datasets into meaningful insights and dashboards that help solve real-world business challenges.
+## 🔭 I’m currently working on
+Data Analytics and Business Intelligence projects using **SQL, Python, Power BI, and Excel**. I enjoy transforming raw data into meaningful insights through interactive dashboards, reports, and visualizations that support data-driven decision-making.
 
+## 🌱 I’m currently learning
+- Advanced SQL
+- Power BI & DAX
+- Python for Data Analytics
+- Statistics for Data Science
+- Data Visualization
+- Business Analytics
+- Machine Learning
+
+## 👯 I’m looking to collaborate on
+- Data Analytics Projects
+- Business Intelligence Solutions
+- Power BI Dashboard Development
+- Data Visualization Projects
+- Open-Source Data Projects
+
+## 🤝 I’m looking for help with
+- Advanced Power BI Development
+- Data Engineering Concepts
+- Cloud Analytics Platforms
+- Building End-to-End Data Solutions
+- Industry Best Practices in Analytics
+
+## 💬 Ask me about
+- SQL
+- Python
+- Power BI
+- Microsoft Excel
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
+- Business Intelligence Fundamentals
+
+## ⚡ Fun fact
+I enjoy transforming complex datasets into clear visual stories and interactive dashboards that help uncover trends, solve business problems, and support smarter decision-making.
+
+## 🎯 Career Goal
+Aspiring **Data Analyst | Business Analyst | Power BI Developer** passionate about leveraging data, analytics, and visualization to drive business growth and informed decision-making.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]( https://www.facebook.com/lucky.aswal.94) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/luckyaswal_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucky-aswal-820793315/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@luckyaswal157) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luckyaswal842@gmail.com) 
