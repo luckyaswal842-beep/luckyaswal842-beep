@@ -4,35 +4,35 @@ A passionate Data Analyst
 Email Me 👉 ✉️ **luckyaswal842@gmail.com** For Collaboration/Project or Anything Else. 
 
 ## 🔭 I’m currently working on
-Data Analytics and Business Intelligence projects using **SQL, Python, Power BI, and Excel**. I enjoy transforming raw data into meaningful insights through interactive dashboards, reports, and visualizations that support data-driven decision-making.
+Building real-world **Data Analytics and Business Intelligence projects** using **SQL, Power BI, Python, and Excel**. My focus is on data cleaning, dashboard development, business reporting, and transforming raw data into actionable insights that support data-driven decision-making.
 
 ## 🌱 I’m currently learning
 - Advanced SQL
 - Power BI & DAX
 - Python for Data Analytics
-- Statistics for Data Science
+- Statistics for Data Analysis
 - Data Visualization
 - Business Analytics
-- Machine Learning
+- Data Storytelling
 
 ## 👯 I’m looking to collaborate on
 - Data Analytics Projects
 - Business Intelligence Solutions
 - Power BI Dashboard Development
 - Data Visualization Projects
-- Open-Source Data Projects
+- Open-Source Analytics Projects
 
-## 🤝 I’m looking for help with
+## 🚀 Areas I'm Exploring
 - Advanced Power BI Development
-- Data Engineering Concepts
-- Cloud Analytics Platforms
-- Building End-to-End Data Solutions
-- Industry Best Practices in Analytics
+- Real-World Business Analytics Use Cases
+- Data Modeling & ETL Processes
+- Cloud-Based Analytics Solutions
+- Industry Best Practices in Data Analytics
 
 ## 💬 Ask me about
 - SQL
-- Python
 - Power BI
+- Python
 - Microsoft Excel
 - Data Cleaning
 - Data Visualization
@@ -41,11 +41,11 @@ Data Analytics and Business Intelligence projects using **SQL, Python, Power BI,
 - Business Intelligence Fundamentals
 
 ## ⚡ Fun fact
-I enjoy transforming complex datasets into clear visual stories and interactive dashboards that help uncover trends, solve business problems, and support smarter decision-making.
+I enjoy transforming raw datasets into interactive dashboards and meaningful insights that help businesses make smarter decisions.
 
 ## 🎯 Career Goal
-Aspiring **Data Analyst | Business Analyst | Power BI Developer** passionate about leveraging data, analytics, and visualization to drive business growth and informed decision-making.
-
+B.Tech Computer Science graduate aspiring to build a career as a **Data Analyst, Business Analyst, or Power BI Developer**. Passionate about data analytics, business intelligence, and visualization, with hands-on experience in **SQL, Power BI, Python, and Excel**. Currently building real-world projects and actively seeking opportunities to apply analytical skills to solve business problems and drive data-driven decision-making.
+ 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]( https://www.facebook.com/lucky.aswal.94) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/luckyaswal_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucky-aswal-820793315/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@luckyaswal157) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luckyaswal842@gmail.com) 
  
